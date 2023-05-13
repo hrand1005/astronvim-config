@@ -18,7 +18,24 @@ return {
   },
 
   -- Set colorscheme to use
-  colorscheme = "astrodark",
+  -- colorscheme = "astrodark",
+  -- colorscheme = "delek",
+  -- colorscheme = "desert",
+  -- colorscheme = "elflord",
+  -- colorscheme = "evening",
+  -- colorscheme = "industry",
+  -- colorscheme = "koehler",
+  -- colorscheme = "morning",
+  -- colorscheme = "murphy",
+  -- colorscheme = "pablo",
+  -- colorscheme = "peachpuff",
+  -- colorscheme = "ron",
+  -- colorscheme = "shine",
+  -- colorscheme = "slate",
+  -- colorscheme = "torte",
+  -- colorscheme = "zellner",
+  
+  colorscheme = "rose-pine",
 
   -- Diagnostics configuration (for vim.diagnostics.config({...})) when diagnostics are on
   diagnostics = {
